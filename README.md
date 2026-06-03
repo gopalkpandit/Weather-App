@@ -33,11 +33,9 @@ This web application has been converted into an Android APK using **Kotlin WebVi
 
 ## 📸 Screenshot
 
-<img alt="Screenshot" height="40" src="screenshots/a.jpg" width="40"/>
-
-<img alt="Screenshot" height="40" src="screenshots/a.jpg" width="40"/>
-
-<img alt="Screenshot" height="40" src="screenshots/a.jpg" width="40"/>
+<img alt="Screenshot" height="300" src="screenshots/a.jpg" width="150"/>
+<img alt="Screenshot" height="300" src="screenshots/a.jpg" width="150"/>
+<img alt="Screenshot" height="300" src="screenshots/a.jpg" width="150"/>
 
 ## 🔮 Future Improvements
 
