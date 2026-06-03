@@ -33,7 +33,12 @@ This web application has been converted into an Android APK using **Kotlin WebVi
 
 ## 📸 Screenshot
 
-
+<h2>Weather App Screenshots</h2>
+<p align="center">
+<img alt="Home & Search screen" height="200" src="screenshots/a.jpg" width="100"/>
+<img alt="Result" height="200" src="screenshots/b.jpg" width="100"/>
+<img alt="Result" height="200" src="screenshots/c.jpg" width="100"/>
+</p>
 
 ## 🔮 Future Improvements
 
@@ -45,7 +50,7 @@ This web application has been converted into an Android APK using **Kotlin WebVi
 
 ## 👨‍💻 Author
 
-Gopal Kr. Pandit
+[@Gopal](https://github.com/gopalkpandit)
 
 ## 📄 License
 
