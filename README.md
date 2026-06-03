@@ -32,11 +32,11 @@ This web application has been converted into an Android APK using **Kotlin WebVi
 5. View the weather information.
 
 ## 📸 Screenshot
-
+<p align="center">
 <img alt="Screenshot" height="300" src="screenshots/a.jpg" width="150"/>
 <img alt="Screenshot" height="300" src="screenshots/a.jpg" width="150"/>
 <img alt="Screenshot" height="300" src="screenshots/a.jpg" width="150"/>
-
+</p>
 ## 🔮 Future Improvements
 
 * Weather icons
